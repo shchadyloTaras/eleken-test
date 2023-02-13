@@ -10,11 +10,12 @@ The task requires that you build a layout that meets the following requirements:
 - The layout should be visually appealing and should make effective use of colors, fonts, and other design elements.
 - The layout should be well-organized and should make effective use of the space available on the screen.
 
-#link to Figma
+
+Link to Figma:
 
 https://www.figma.com/file/eDpaMiIgRUWCYMScPt6ZnI/Webflow-Test?node-id=0%3A1&t=HlvJ3G4uxf0HGDps-0
 
-#Landing page link
+Link to landing page:
 
 https://shchadylotaras.github.io/eleken-test/
 
